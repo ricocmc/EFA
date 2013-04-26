@@ -1,0 +1,15 @@
+[27-Aug-2012 09:28:06] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 30720 bytes) in /home/efaacom/public_html/wp-includes/class-simplepie.php on line 3184
+[27-Aug-2012 09:28:07] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 30720 bytes) in /home/efaacom/public_html/wp-includes/class-simplepie.php on line 3184
+[27-Aug-2012 09:28:08] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 30720 bytes) in /home/efaacom/public_html/wp-includes/class-simplepie.php on line 3184
+[27-Aug-2012 10:03:09] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 30720 bytes) in /home/efaacom/public_html/wp-includes/class-simplepie.php on line 2891
+[27-Aug-2012 10:03:09] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 30720 bytes) in /home/efaacom/public_html/wp-includes/class-simplepie.php on line 2891
+[27-Aug-2012 10:03:10] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 7680 bytes) in /home/efaacom/public_html/wp-includes/class-simplepie.php on line 2952
+[27-Aug-2012 10:09:39] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 30720 bytes) in /home/efaacom/public_html/wp-includes/class-simplepie.php on line 2891
+[27-Aug-2012 10:09:39] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 30720 bytes) in /home/efaacom/public_html/wp-includes/class-simplepie.php on line 2891
+[27-Aug-2012 10:09:40] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 30720 bytes) in /home/efaacom/public_html/wp-includes/class-simplepie.php on line 2891
+[01-Sep-2012 10:46:27] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 122880 bytes) in /home/efaacom/public_html/wp-includes/class-simplepie.php on line 2480
+[01-Sep-2012 10:46:27] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 122880 bytes) in /home/efaacom/public_html/wp-includes/class-simplepie.php on line 2649
+[01-Sep-2012 10:46:28] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 122880 bytes) in /home/efaacom/public_html/wp-includes/class-simplepie.php on line 2649
+[01-Sep-2012 10:57:58] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 122880 bytes) in /home/efaacom/public_html/wp-includes/class-simplepie.php on line 2480
+[01-Sep-2012 10:57:59] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 122880 bytes) in /home/efaacom/public_html/wp-includes/class-simplepie.php on line 2649
+[01-Sep-2012 10:58:00] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 122880 bytes) in /home/efaacom/public_html/wp-includes/class-simplepie.php on line 2649
